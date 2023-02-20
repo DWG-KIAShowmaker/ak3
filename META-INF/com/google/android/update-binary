@@ -507,4 +507,10 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
   cleanup;
 fi;
 
+ui_print "-----------Idea Kernel警告-----------";
+ui_print "- 如果你是MIUI14用户，请刷入后进入TWRP主页";
+ui_print "- 高级--禁用AVB2.0，再开机，否则可能卡开机第一屏！";
+ui_print "- 如果你要更新TWRP，请回到官方内核再操作";
+ui_print "- 否则由于Ramdisk的修改会导致无法进入Recovery！";
+ui_print "--------警告结束 刷入已完成--------";
 ui_print " " "Done!";
