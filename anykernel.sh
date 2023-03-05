@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=IdeaKernel by Dogggee @ Coolpak-Developer
+kernel.string=IdeaKernel by Dogggee@Coolpak-Developer
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=alioth
-device.name2=missi
-device.name3=aliothin
+device.name2=aliothin
+device.name3=
 device.name4=
 device.name5=
 supported.versions=
