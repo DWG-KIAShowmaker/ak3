@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=IdeaKernel by Dogggee@Coolpak-Developer
+kernel.string=DarwinKernel by Dogggee @ Coolpak-Developer
 do.devicecheck=1
 do.modules=0
 do.systemless=1
