@@ -507,7 +507,7 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
   cleanup;
 fi;
 
-ui_print "-----------Idea Kernel警告-----------";
+ui_print "-----------Darwin Kernel警告-----------";
 ui_print "- 1.如果你要更新TWRP，请回到官方内核再操作";
 ui_print "- 否则由于Ramdisk的修改会导致无法进入Recovery！";
 ui_print "- 2.使用此版本，不需要刷入群内提供的DTBO！不需要！";
