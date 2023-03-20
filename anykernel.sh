@@ -15,7 +15,7 @@ device.name2=aliothin
 device.name3=
 device.name4=
 device.name5=
-supported.versions=
+supported.versions=12 - 13
 supported.patchlevels=
 '; } # end properties
 
