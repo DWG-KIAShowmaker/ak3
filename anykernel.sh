@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=DarwinKernel by Dogggee @ Coolpak-Developer
+kernel.string=Darwin Kernel by Amagi_Mata @ Coolapk-Developer
 do.devicecheck=1
 do.modules=0
 do.systemless=1
