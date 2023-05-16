@@ -510,6 +510,6 @@ fi;
 ui_print "----------------------------------";
 ui_print "-      欢迎使用Darwin Kernel！   ";
 ui_print "- 1.反馈BUG，务必带好出现问题时的截图，否则视为无效反馈";
-ui_print "- 2.Darwin Kernel官方群聊：271512119  ";
+ui_print "- 2.Darwin Kernel官方群聊：620109667  ";
 ui_print "-----------------------------------";
 ui_print " " "Done!";
