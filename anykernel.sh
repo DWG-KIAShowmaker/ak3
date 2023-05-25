@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Darwin Kernel by Amagi_Mata @ Coolapk-Developer
+kernel.string=Lemons Kernel by Amagi_Mata @ Coolapk-Developer
 do.devicecheck=1
 do.modules=0
 do.systemless=1
