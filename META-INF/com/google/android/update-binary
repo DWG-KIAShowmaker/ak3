@@ -507,4 +507,8 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
   cleanup;
 fi;
 
+ui_print "-----------------------------------";
+ui_print "-    欢迎使用Lemons Kernel ！";
+ui_print "- 1. 反馈BUG，请加入QQ群: 620109667 ";
+ui_print "-----------------------------------";
 ui_print " " "Done!";
