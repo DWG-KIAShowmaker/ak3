@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=IdeaKernel by Dogggee@Coolpak-Developer
+kernel.string=Lemons Kernel by Amagi_Mata @ Coolapk-Developer
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=munchin
 device.name3=
 device.name4=
 device.name5=
-supported.versions=
+supported.versions=11 - 13
 supported.patchlevels=
 '; } # end properties
 
