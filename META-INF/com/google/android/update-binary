@@ -509,6 +509,6 @@ fi;
 
 ui_print "-----------------------------------";
 ui_print "-    欢迎使用Lemons Kernel ！";
-ui_print "- 1. 反馈BUG，请加入QQ群: 620109667 ";
+ui_print "-  反馈BUG，请加入QQ频道：04c0s6s58t ";
 ui_print "-----------------------------------";
 ui_print " " "Done!";
